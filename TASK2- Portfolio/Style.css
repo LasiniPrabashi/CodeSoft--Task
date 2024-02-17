@@ -330,7 +330,7 @@ body>main>section:nth-child(2)>h4{
 
 main>section:nth-child(3){
     position: relative;
-    height: 190vh;
+    height: 130vh;
     /*font-size: 0;*/
     display: flex;
     background-size: 100vw 100vh;
@@ -469,7 +469,7 @@ section:nth-child(3)>h2{
 
 .skill-h1{
     position: absolute;
-    top: 43%;
+    top: 65%;
     left: 40%;
     right: 0;
     margin: auto;
@@ -501,7 +501,7 @@ section:nth-child(3)>img:hover{
     width: 80px;
     position: absolute;
     left: 5%;
-    top: 50%;
+    top: 80%;
     transition: .5s ease;
 }
 
@@ -509,7 +509,7 @@ section:nth-child(3)>img:hover{
     height: 80px;
     width: 80px;
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 12%;
     transition: .5s ease;
 }
@@ -518,7 +518,7 @@ section:nth-child(3)>img:hover{
     height: 80px;
     width: 80px;
     position:absolute;
-    top: 50%;
+    top: 80%;
     left: 19%;
     transition: .5s ease;
 }
@@ -527,7 +527,7 @@ section:nth-child(3)>img:hover{
     height: 80px;
     width: 80px;
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 26%;
     transition: .5s ease;
 }
@@ -536,7 +536,7 @@ section:nth-child(3)>img:hover{
     height: 80px;
     width: 80px;
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 33%;
     transition: .5s ease;
 }
@@ -545,7 +545,7 @@ section:nth-child(3)>img:hover{
     height: 80px;
     width: 80px;
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 40%;
     transition: .5s ease;
 }
@@ -554,7 +554,7 @@ section:nth-child(3)>img:hover{
     height: 80px;
     width: 80px;
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 47%;
     transition: .5s ease;
 }
@@ -563,7 +563,7 @@ section:nth-child(3)>img:hover{
     height: 80px;
     width: 80px;
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 54%;
     transition: .5s ease;
 }
@@ -572,7 +572,7 @@ section:nth-child(3)>img:hover{
     height: 80px;
     width: 80px;
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 61%;
     transition: .5s ease;
 }
@@ -581,7 +581,7 @@ section:nth-child(3)>img:hover{
     height: 80px;
     width: 80px;
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 68%;
     transition: .5s ease;
 }
@@ -590,7 +590,7 @@ section:nth-child(3)>img:hover{
     height: 80px;
     width: 80px;
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 75%;
     transition: .5s ease;
 }
@@ -599,7 +599,7 @@ section:nth-child(3)>img:hover{
 
 main>section:nth-child(4) {
     position: relative;
-    height: 180vh;
+    height: 130vh;
     display: flex;
     background-size: 100vw 100vh;
     background-color: #1f242d;
@@ -719,7 +719,7 @@ main>section:nth-child(5){
     height: 120vh;
     display: flex;
     background-size: 100vw 100vh;
-    background-color:  #1f242d;
+    background-color:  #323946;
 }
 
 main>section:nth-child(5)>h1{
@@ -792,7 +792,7 @@ form input, form textarea,form button{
     padding: 17px;
     border: none;
     outline: none;
-    background: #323946;
+    background: #1f242d;
     color: #fff;
     font-size: 1.1rem;
     margin-bottom: 0.7rem;
